@@ -34,7 +34,7 @@ body {
 
 .header__main-text {
     color: #4c545d;
-    padding: 0 30px;
+    padding: 0 20px;
     margin: 30px 0;
 }
 
@@ -76,7 +76,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-top: 10vh;
+    margin-top: 20vh;
 }
 
 .content__keep-track__heading {
@@ -146,6 +146,7 @@ body {
 
 .content__workflow__content-box {
     margin-top: 5vh;
+    margin-bottom: 20vh;
 }
 
 .content__workflow__content-box__image {
