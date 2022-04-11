@@ -76,7 +76,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-top: 10vh;
+    margin-top: 20vh;
 }
 
 .content__keep-track__heading {
