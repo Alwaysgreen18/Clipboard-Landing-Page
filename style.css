@@ -110,7 +110,7 @@ body {
 }
 
 .content__access-clipboard {
-    margin-top: 10vh;
+    margin-top: 20vh;
 }
 
 .content__access-clipboard__heading {
@@ -135,7 +135,7 @@ body {
 }
 
 .content__workflow__heading {
-    margin-top: 7vh;
+    margin-top: 20vh;
     color: #4c545d;
     margin-bottom: 1vh;
 }
@@ -145,7 +145,8 @@ body {
 }
 
 .content__workflow__content-box {
-    margin-top: 5vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
 }
 
 .content__workflow__content-box__image {
@@ -172,7 +173,7 @@ body {
 }
 
 .vector-logo {
-    margin-bottom: 8vh;
+    margin-bottom: 20vh;
 }
 
 .ios-mac {
@@ -196,7 +197,7 @@ footer {
     flex-direction: column;
     width: 70%;
     margin: 0 auto;
-    margin-top: 8vh;
+    margin-top: 20vh;
     padding: 20px;
 }
 
