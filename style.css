@@ -20,7 +20,7 @@ body {
 
 .center-logo {
     position: absolute;
-    top: 120px;
+    top: 90px;
     left: 50%;
     transform: translate(-50%);
 }
@@ -48,7 +48,9 @@ body {
 .buttons {
     display: grid;
     grid-template-columns: 300px;
-    margin: 0 auto;
+    place-items: center;
+    justify-content: center;
+    grid-gap: 20px;
     text-align: center;
 }
 
@@ -59,10 +61,10 @@ body {
     text-decoration: none;
     color: #fff;
     border-style: none;
+    width: 80%;
 }
 
 .header__button-ios {
-    margin: 20px 0;
     background: #26baa4;
 }
 
@@ -74,7 +76,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-top: 4vh;
+    margin-top: 10vh;
 }
 
 .content__keep-track__heading {
